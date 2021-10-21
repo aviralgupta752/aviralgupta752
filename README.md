@@ -8,7 +8,8 @@ My name is Aviral Gupta and I'm a 3rd year student at IIITA. You can find me on 
 I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Aviral-Codechef" height="20" width="20" />
   </a> and have solved more than 500 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aviral-Leetcode" height="20" width="20" />.
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aviral-Leetcode" height="20" width="20" />
+  </a>.
 
 Apart from coding, I am also learning image processing and deep learning😄
 
@@ -20,18 +21,9 @@ Apart from coding, I am also learning image processing and deep learning😄
 </a>
 <a href="https://github.com/aviralgupta752/aviralgupta752">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</a> 
 
-<a href="https://github.com/aviralgupta752/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/aviralgupta752/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-## Link to all profile
+<h2 align="center">Link to all profiles</h2>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/aviral-gupta-754341152/" target="blank">
