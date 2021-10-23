@@ -12,19 +12,20 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="b
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752&show_icons=true,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752&theme=default&show_icons=true"/>
 </a>
+
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aviral's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&theme=default&show_icons=true" alt="Aviral's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/aviralgupta752/Law-and-Order-Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=Law-and-Order-Automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=Law-and-Order-Automation&theme=default&show_icons=true" />
 </a>
 
 
 <a href="https://github.com/aviralgupta752/DBMS_Assignment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=DBMS_Assignment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=DBMS_Assignment&theme=default&show_icons=true" />
 </a>
 
 <h2 align="center">Link to all profiles</h2>
