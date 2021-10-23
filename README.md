@@ -16,10 +16,10 @@ Apart from coding, I am also learning image processing and deep learning.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752&hide=java,html,tex&title_color=000000&text_color=363533&icon_color=d44375&bg_color=e2e0de&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752,html,tex&title_color=000000&text_color=363533&icon_color=d44375&bg_color=e2e0de&langs_count=3" />
 </a>
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aviral's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aviral's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/aviralgupta752/Law-and-Order-Automation">
