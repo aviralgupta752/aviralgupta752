@@ -12,11 +12,11 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="b
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752&theme=default&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralgupta752&theme=default&show_icons=true&line_height=27"/>
 </a>
 
 <a href="https://github.com/aviralgupta752/aviralgupta752">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&theme=default&show_icons=true" alt="Aviral's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&theme=default&show_icons=true&line_height=27" alt="Aviral's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/aviralgupta752/Law-and-Order-Automation">
