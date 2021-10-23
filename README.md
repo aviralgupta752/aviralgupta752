@@ -9,8 +9,7 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="b
     Codechef
   </a> and have solved more than 500 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
     Leetcode
-  </a>.<br>
-Apart from coding, I am also learning image processing and deep learning.
+  </a>.Apart from coding, I am also learning image processing and deep learning.
 
 
 ## &#x1f4c8; GitHub Stats
@@ -34,31 +33,33 @@ Apart from coding, I am also learning image processing and deep learning.
 <h2 align="center">Link to all profiles</h2>
 <p align="center">
   
+  <a href="https://www.codechef.com/users/stark752" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Aviral-Codechef" height="25" width="25" />
+  </a>
+
+  <a href="https://leetcode.com/aviralgupta752/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Leetcode.svg" alt="Aviral-Leetcode" height="25" width="25" />
+  </a>
+
   <a href="https://www.linkedin.com/in/aviral-gupta-754341152/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aviral-LinkedIn" height="25" width="25" />
   </a>
-  
-  <a href="https://www.codechef.com/users/stark752" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Aviral-Codechef" height="25" width="25" />
+
+  <a href="https://www.instagram.com/aviral752/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Aviral-Insta" height="25" width="25" />
+  </a>
+
+  <a href="mailto:guptaavi352@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Aviral-Mail" height="25" width="25"/>
+  </a>
+
+  <a href="https://guptaavi352.medium.com/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Aviral-Medium" height="25" width="25" />
   </a>
 
   <a href="https://twitter.com/aviralgupta752" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Aviral-Twitter" height="25" width="25" />
   </a>
 
-  <a href="https://guptaavi352.medium.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Aviral-Medium" height="25" width="25" />
-  </a>
   
-  <a href="https://www.instagram.com/aviral752/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Aviral-Insta" height="25" width="25" />
-  </a>
-
-  <a href="https://www.facebook.com/avi.gupta.73157/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Aviral-fb" height="25" width="25" />
-  </a>
-
-  <a href="mailto:guptaavi352@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Aviral-Mail" height="25" width="25"/>
-  </a>
 </p>
