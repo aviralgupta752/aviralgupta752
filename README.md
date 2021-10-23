@@ -38,7 +38,7 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="b
   </a>
 
   <a href="https://leetcode.com/aviralgupta752/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Leetcode.svg" alt="Aviral-Leetcode" height="25" width="25" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aviral-Leetcode" height="25" width="25" />
   </a>
 
   <a href="https://www.linkedin.com/in/aviral-gupta-754341152/" target="blank">
