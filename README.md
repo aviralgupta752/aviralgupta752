@@ -1,17 +1,17 @@
 <h1> Hello, folks! 👋 </h1>
 My name is Aviral Gupta and I'm a 3rd year student at IIITA. You can find me on <a href="https://twitter.com/aviralgupta752" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Aviral-Twitter" height="20" width="20" />
+    Twitter
   </a>, or on <a href="https://www.linkedin.com/in/aviral-gupta-754341152/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aviral-LinkedIn" height="20" width="20" />
+    LinkedIn
   </a>.
 
 I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Aviral-Codechef" height="20" width="20" />
+    Codechef
   </a> and have solved more than 500 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aviral-Leetcode" height="20" width="20" />
+    Leetcide
   </a>.
 
-Apart from coding, I am also learning image processing and deep learning😄.
+Apart from coding, I am also learning image processing and deep learning.
 
 
 ## &#x1f4c8; GitHub Stats
@@ -23,8 +23,8 @@ Apart from coding, I am also learning image processing and deep learning😄.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aviral's GitHub Stats" />
 </a> 
 
-<a href="https://github.com/aviralgupta752/Kanoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=Kanoon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/aviralgupta752/Law-and-Order-Automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aviralgupta752&repo=Law-and-Order-Automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
