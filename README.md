@@ -8,7 +8,7 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="b
   </a> and have solved more than 500 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
     Leetcode</a>. Apart from coding, I am also learning image processing and deep learning.
 
-
+![](https://komarev.com/ghpvc/?username=aviralgupta752&color=blue)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aviralgupta752/aviralgupta752">
