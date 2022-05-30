@@ -1,11 +1,11 @@
 <h1> Hello, folks! 👋 </h1>
-My name is Aviral Gupta and I'm a 3rd year student at IIITA. You can find me on <a href="https://twitter.com/aviralgupta752" target="blank">
+My name is Aviral Gupta and I'm a final year student at IIITA. You can find me on <a href="https://twitter.com/aviralgupta752" target="blank">
     Twitter</a>, or on <a href="https://www.linkedin.com/in/aviral-gupta-754341152/" target="blank">
     LinkedIn</a>.
 
-I am a 4⭐ coder on <a href="https://www.codechef.com/users/stark752" target="blank">
+I am a 5⭐ coder on <a href="https://www.codechef.com/users/stark752" target="blank">
     Codechef
-  </a> and have solved more than 500 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
+  </a> and have solved more than 1000 problems on <a href="https://leetcode.com/aviralgupta752/" target="blank">
     Leetcode</a>. Apart from coding, I am also learning image processing and deep learning.
 
 ![](https://komarev.com/ghpvc/?username=aviralgupta752&color=blue)
